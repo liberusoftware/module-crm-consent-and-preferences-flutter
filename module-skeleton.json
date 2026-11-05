@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-consent-and-preferences-flutter",
+  "capabilityKey": "liberusoftware/module-crm-consent-and-preferences",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_consent_and_preferences_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/consent-and-preferences.md",
+  "presentationPlan": "projects/crm/flutter/consent-and-preferences.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
